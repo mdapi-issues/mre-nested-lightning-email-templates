@@ -1,0 +1,11 @@
+{
+  "orgName": "ACME",
+  "edition": "Developer",
+  "language": "en_US",
+  "features": [],
+  "settings": {
+    "emailTemplateSettings": {
+      "enableTemplateEnhancedFolderPref": true
+    }
+  }
+}
